@@ -2,6 +2,11 @@ Face-Recognition_FaceNet_PyTorch
 ===========================
 This integrated pytorch based system is a tutorial system for those who are interseted in Computer Vision especially in face recognition. Some parts of this system are copy from other Github. The sites are in the references below, appreciate their contribution.
 
+****
+|Author|Leo;北习|
+|---|---
+|E-mail|zouzijie1994@gmail.com
+
 # Environment  
 
 On my iMac, the version of necessary environments are:
@@ -14,15 +19,14 @@ On my iMac, the version of necessary environments are:
 |Opencv|3.1.0
 |Dlib|19.9.0
 
-# Environment  
-
-
-
 ****
-	
-|Author|Leo;北习|
-|---|---
-|E-mail|zouzijie1994@gmail.com
+
+# References  
+
+[OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch "悬停显示")
+
+
+
 
 
 ****
