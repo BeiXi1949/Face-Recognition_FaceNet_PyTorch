@@ -6,10 +6,6 @@ Some parts of this system are copy from other Github. The sites are in the refer
 
 FaceNet Models are from [Openface](https://cmusatyalab.github.io/openface/ "悬停显示")
 ****
-|Author|Leo;北习|
-|---|---
-|E-mail|zouzijie1994@gmail.com
-****
 # Environment  
 
 On my iMac, the version of necessary environments are:
@@ -37,11 +33,13 @@ ___Warning:___ If your device supports CPU only. Please remember to modify model
 |---|---
 |CPU|model.load_state_dict(torch.load('path',map_location=lambda storage, loc: storage))
 |GPU|model.load_state_dict(torch.load('path'))
-
 ****
-
 # References  
 
 |Name|Github|
 |----|-----|
 |Convert Torch model to PyTorch Model|[OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch "悬停显示")
+****
+|Author|Leo;北习|
+|---|---
+|E-mail|zouzijie1994@gmail.com
