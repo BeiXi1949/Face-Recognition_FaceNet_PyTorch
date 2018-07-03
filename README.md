@@ -14,14 +14,15 @@ On my iMac, the version of necessary environments are:
 |Opencv|3.1.0
 |Dlib|19.9.0
 
+# Environment  
 
 
 
 ****
 	
-|Author|果冻虾仁|
+|Author|Leo;北习|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
+|E-mail|zouzijie1994@gmail.com
 
 
 ****
