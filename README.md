@@ -6,7 +6,7 @@ This integrated pytorch based system is a tutorial system for those who are inte
 |Author|Leo;北习|
 |---|---
 |E-mail|zouzijie1994@gmail.com
-
+****
 # Environment  
 
 On my iMac, the version of necessary environments are:
@@ -18,12 +18,27 @@ On my iMac, the version of necessary environments are:
 |Torchvision|0.2.0
 |Opencv|3.1.0
 |Dlib|19.9.0
+****
+# Guide
+```
+Register.py is for people registion
+```
+___Warning:___ Please remember to press 'ESC' to log out after a 10s record video has been recorded. 
+
+```
+Recognition.py is for people recogntion
+```
+___Warning:___ If your device supports CPU only. Please remember to modify model loding in Line 53
+
+|---|---
+|CPU|model.load_state_dict(torch.load('path',map_location=lambda storage, loc: storage))
+|GPU|model.load_state_dict(torch.load('path'))
 
 ****
 
 # References  
-
-[OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch "悬停显示")
+|----|-----|
+|Convert Torch model to PyTorch Model|[OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch "悬停显示")
 
 
 
