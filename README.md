@@ -5,6 +5,8 @@ This integrated pytorch based system is a tutorial system for those who are inte
 Some parts of this system are copy from other Github. The sites are in the references below, appreciate their contribution.
 
 FaceNet Models are from [Openface](https://cmusatyalab.github.io/openface/ "悬停显示")
+
+![image](https://github.com/BeiXi1949/Face-Recognition_FaceNet_PyTorch/blob/master/test.jpeg)
 ****
 # Environment  
 
