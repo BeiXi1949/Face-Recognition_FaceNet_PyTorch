@@ -35,6 +35,8 @@ ___Warning:___ If your device supports CPU only. Please remember to modify model
 |---|---
 |CPU|model.load_state_dict(torch.load('path',map_location=lambda storage, loc: storage))
 |GPU|model.load_state_dict(torch.load('path'))
+
+___Warning:___ Remember do not delete the folder './User/people_ori/Unknown'
 ****
 # References  
 
