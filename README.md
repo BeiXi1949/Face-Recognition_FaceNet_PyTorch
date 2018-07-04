@@ -27,7 +27,7 @@ Register.py is for people registion
 ___Warning:___ Please remember to press 'ESC' to log out after a 10s record video has been recorded. 
 
 ```
-Recognition.py is for people recogntion
+Recognizer.py is for people recogntion
 ```
 ___Warning:___ If your device supports CPU only. Please remember to modify model loding in Line 53
 
@@ -43,6 +43,7 @@ ___Warning:___ Remember do not delete the folder './User/people_ori/Unknown'
 |Name|Github|
 |----|-----|
 |Convert Torch model to PyTorch Model|[OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch "悬停显示")
+|MTCNN PyTorch|[mtcnn-pytorch](https://github.com/TropComplique/mtcnn-pytorch "悬停显示")
 ****
 |Author|Leo（北习）|
 |---|---
