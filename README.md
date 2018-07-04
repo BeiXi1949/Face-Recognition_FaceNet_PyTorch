@@ -2,7 +2,7 @@ Face-Recognition_FaceNet_PyTorch
 ===========================
 This integrated pytorch based system is a tutorial system for those who are interseted in Computer Vision especially in face recognition. Face recognition method is using FaceNet.
 
-Some parts of this system are copy from other Github. The sites are in the references below, appreciate their contribution.
+Some parts of this system are copy from other Github. Sites are in the references below, appreciate their contribution.
 
 FaceNet Models are from [Openface](https://cmusatyalab.github.io/openface/ "悬停显示")
 
